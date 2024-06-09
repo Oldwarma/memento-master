@@ -8,7 +8,7 @@ Memento is a tool used to load and save accounts from old Solana snapshots in Go
 - Easy programmatic access to bulk snapshot ingestion.
 
 # Developing
-
+ 
 ### Build
 ```bash
 $ cargo b --release
